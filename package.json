@@ -1,0 +1,29 @@
+{
+  "name": "twaddle-cli",
+  "version": "1.0.0",
+  "description": "CLI for Twaddle",
+  "main": "app.js",
+  "bin": {
+    "twaddle": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/twaddle-cli.git"
+  },
+  "keywords": [
+    "twaddle",
+    "cli"
+  ],
+  "author": "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/twaddle-cli/issues"
+  },
+  "homepage": "https://github.com/hash-bang/twaddle-cli#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "lodash": "^4.12.0",
+    "twaddle": "^1.1.1"
+  }
+}
