@@ -1,6 +1,6 @@
 {
   "name": "twaddle-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for Twaddle",
   "main": "app.js",
   "bin": {
@@ -24,6 +24,6 @@
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "lodash": "^4.12.0",
-    "twaddle": "^1.1.1"
+    "twaddle": "^1.1.2"
   }
 }
